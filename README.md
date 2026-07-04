@@ -97,3 +97,4 @@ images/thumbs/
 The website source code is licensed under the license included in this repository.
 
 All photographs are © JP Feliciano. Unauthorized reproduction, redistribution, or commercial use of any photographs contained within this repository or on the published website is prohibited without prior written permission.
+
