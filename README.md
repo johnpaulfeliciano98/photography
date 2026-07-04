@@ -6,7 +6,7 @@ This website showcases a curated collection of my automotive photography, featur
 
 ## Portfolio
 
-**Website:** https://johnpaulfeliciano98.github.io/jp-feliciano-photography/
+**Website:** https://johnpaulfeliciano98.github.io/photography/
 
 ## About
 
