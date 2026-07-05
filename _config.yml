@@ -1,9 +1,23 @@
 # Base configs
-baseurl: "/photography/"
+baseurl: "/photography"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
+exclude:
+  - .DS_Store
+  - .github/
+  - .gitignore
+  - .ruby-version
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - gulpfile.mjs
+  - node_modules/
+  - npmfile.js
+  - package-lock.json
+  - package.json
 
 # UI configs
 title: "Automotive Photography by JP Feliciano"
