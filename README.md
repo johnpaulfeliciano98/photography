@@ -89,12 +89,11 @@ images/thumbs/
 
 ## Connect
 
-- **Instagram:** https://www.instagram.com/felicijo.jpg/
-- **LinkedIn:** https://www.linkedin.com/in/jp-feliciano/
+- **Instagram DM:** https://www.instagram.com/felicijo.jpg/
+- **LinkedIn profile:** https://www.linkedin.com/in/jp-feliciano/
 
 ## License
 
 The website source code is licensed under the license included in this repository.
 
 All photographs are © JP Feliciano. Unauthorized reproduction, redistribution, or commercial use of any photographs contained within this repository or on the published website is prohibited without prior written permission.
-
